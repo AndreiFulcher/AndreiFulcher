@@ -1,9 +1,9 @@
-## Andrei Fulcher Ribeiro, estudante de Engenharia de Software!
+## Andrei Fulcher Ribeiro | Estudante de Engenharia de Software
 
 <div style="display: inline_block"><br>
-  Estudante de Engenharia de Software com foco em back-end e análise de dados. Tenho experiência na criação de Dashboards em Power Bi para linhas de produção e auditoria, 
-  transformando dados em insights para melhoria de processos. Participo de projetos acadêmicos com   
-  Java, C e modelagem de banco de dados. Busco oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia.
+  Atuo com foco em desenvolvimento back-end e análise de dados. Possuo experiência na criação de dashboards em Power BI aplicados a linhas de produção e processos de auditoria, gerando insights para otimização operacional.
+  Participo de projetos acadêmicos com Java, C e modelagem de banco de dados. 
+  Busco oportunidades para aplicar soluções tecnológicas que gerem valor ao negócio, além de aprimorar minhas competências técnicas na área de desenvolvimento de software e análise de dados.
 </div>
 
 <div style="display: inline_block"><br>
